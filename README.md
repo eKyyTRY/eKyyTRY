@@ -25,7 +25,7 @@ I'm a **high school student** passionate about **Linux server administration**, 
 ---
 
 ## 📈 GitHub Stats
-![Muhamad Rezky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekyyy08&show_icons=true&theme=radical)
+![Muhamad Rezky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eKyyTRY&show_icons=true&theme=radical)
 
 ---
 
