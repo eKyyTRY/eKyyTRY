@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-I'm a **high school student** passionate about **Linux server administration**, **cybersecurity**, and **web development**. I enjoy building secure server environments and diving into advanced topics like **Single Sign-On (SSO)** and **Capture The Flag (CTF)** challenges.
+I'm a **high school student** passionate about **Linux server administration**, **cybersecurity**, and **web development**. I enjoy building secure environments and exploring advanced topics in these fields.
 
 - 🔭 Currently working on **Linux server security configurations**.
 - 🌱 Exploring **Cloud computing** and **Learning Management Systems (LMS)**.
