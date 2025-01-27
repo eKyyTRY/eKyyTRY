@@ -1,13 +1,10 @@
 # Hi there, I'm **Muhamad Rezky** 👋  
-### *High School Student | Linux Server Enthusiast | Cybersecurity Specialist*
+### *High School Student | Masih Belajar*
 
 ---
 
 ## About Me
-I'm a **high school student** passionate about **Linux server administration**, **cybersecurity**, and **web development**. I enjoy building secure environments and exploring advanced topics in these fields.
-
-- 🔭 Currently working on **Linux server security configurations**.
-- 🌱 Exploring **Cloud computing** and **Learning Management Systems (LMS)**.
+I'm a **Eky** tertarik dengan **IT**.
 - 📫 Contact me: [muhr6128@gmail.com](mailto:muhr6128@gmail.com)
 
 ---
