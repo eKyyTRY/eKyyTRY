@@ -1,5 +1,5 @@
 # Hi there, I'm **Muhamad Rezky** 👋  
-### *High School Student | Masih Belajar*
+### *High School Student*
 
 ---
 
@@ -28,6 +28,3 @@ I'm a **Eky** tertarik dengan **IT**.
 
 ## 🤝 Let's Connect!
 I’m eager to collaborate and learn more about **Linux servers** and **cybersecurity**. Feel free to reach out!
-
-- 📫 Email: [muhr6128@gmail.com](mailto:muhr6128@gmail.com)
-- 💼 LinkedIn: [Muhamad Rezky A.P.](https://linkedin.com/)
