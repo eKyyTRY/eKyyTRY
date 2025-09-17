@@ -1,5 +1,5 @@
-# Hi there, I'm **Muhamad Rezky** 👋  
-### *High School Student*
+# Hi there, I'm **Person** 👋  
+### *Nice GUy*
 
 ---
 
