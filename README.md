@@ -12,8 +12,7 @@
 
 ---
 
-## 📈 GitHub Stats
-![eKyyTRY GitHub Stats](https://github-readme-stats.vercel.app/api?username=eKyyTRY&show_icons=true&theme=radical)
+
 
 ---
 
