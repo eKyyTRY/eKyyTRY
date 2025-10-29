@@ -1,13 +1,4 @@
-# Hi there, I'm **Person** 👋  
-### *Nice GUy*
-
----
-
-## About Me
-I'm a **Eky** tertarik dengan **IT**.
-- 📫 Contact me: [muhr6128@gmail.com](mailto:muhr6128@gmail.com)
-
----
+# Hi there, I'm **a Human** 👋  
 
 ## 🛠️ Technologies & Tools
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -27,4 +18,3 @@ I'm a **Eky** tertarik dengan **IT**.
 ---
 
 ## 🤝 Let's Connect!
-I’m eager to collaborate and learn more about **Linux servers** and **cybersecurity**. Feel free to reach out!
